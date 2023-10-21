@@ -1,4 +1,4 @@
-# CockroachDB Helm Charts Repository
+# CockroachDB Helm Charts Repository Ranu Sharma Version
 
 [CockroachDB](https://github.com/cockroachdb/cockroach) - the open source, cloud-native distributed SQL database.
 
